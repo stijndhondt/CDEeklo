@@ -9,4 +9,4 @@
 !README.md
 !.gitignore
 *.class
-*.yml
+!*.yml
