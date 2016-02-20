@@ -3,6 +3,7 @@
 !build.gradle
 !build.properties
 !gradle/
+!.gradle/
 !gradlew
 !gradlew.bat
 !LICENSE
