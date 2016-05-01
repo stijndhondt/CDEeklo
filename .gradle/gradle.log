@@ -5,23 +5,11 @@
  R4wk, ZeuX, IngisKahn, bspkrs
  MCP Data version : unknown
 ****************************
-:compileApiJava UP-TO-DATE
-:processApiResources UP-TO-DATE
-:apiClasses UP-TO-DATE
-:sourceMainJava
-:compileJavawarning: [options] bootstrap class path not set in conjunction with -source 1.6
-1 warning
-
-:processResources
-:classes
-:jar
-:extractMcpData
-:getVersionJson
-:extractUserDev
-:genSrgs SKIPPED
-:reobf
-:assemble
+:ideaModule
+:ideaProject
+:ideaWorkspace
+:idea
 
 BUILD SUCCESSFUL
 
-Total time: 51.511 secs
+Total time: 21.806 secs
